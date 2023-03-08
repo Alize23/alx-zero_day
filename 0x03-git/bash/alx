@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 #!/bin/bash
-echo "The school is open!"
-=======
+
 echo ALX School
->>>>>>> update_script
+
 ~                        
